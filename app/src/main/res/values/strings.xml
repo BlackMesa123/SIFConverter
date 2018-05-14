@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SIFConverter</string>
+    <string name="convert">Convert all</string>
+</resources>
